@@ -31,5 +31,10 @@ This is a simple calculator project implemented using JavaScript, HTML, and CSS.
 
 ## Screenshots
 
+<img width="338" alt="Screenshot 2023-06-20 213852" src="https://github.com/Ishirastogi/calculator/assets/137077186/be7c0729-f56f-4e6f-bab8-9de4a48e795b">
+
+[demo](https://github.com/Ishirastogi/calculator/assets/137077186/ce626317-bf80-4fb0-84ba-58dec3baab58)
+
+
 
 Happy calculating!
